@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository is for the [Hustle Karma](https://handbook.0l.network/index.php?title=Hustle_Karma) Working Group that operates on the [0L Network](https://0l.network/). The source of truth for the different working groups missions is the [Hustle Karma Airtable](https://airtable.com/shrCuXWvrZgHkspk7/tblixhNzkEaKt3a75). This repository acts as a conduit to allow these missions to be displayed on [Gitcoin](https://gitcoin.co/) by having a place to store bounties as github issues.
+This repository is for the [Hustle Karma](https://handbook.0l.network/index.php?title=Hustle_Karma) Working Group that operates on the [0L Network](https://0l.network/). The source of truth for the different working groups missions is the [Hustle Karma Airtable](https://airtable.com/shrCuXWvrZgHkspk7/tblixhNzkEaKt3a75). This repository acts as a conduit to allow these missions to be displayed on [Gitcoin](https://gitcoin.co/) by having a place to store bounties as github [issues](https://github.com/0lBounties/bounties/issues).
 
 ## About 0L
 
