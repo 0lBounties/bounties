@@ -24,4 +24,4 @@ Additionally, we manage community projects and coordinate work via our working g
 
 All working group sessions are open to anyone. So if you want to learn more, drop by and attend a meeting.
 
-Finally, we have weekly community meetings every Wednesday at 0800 Pacific / 1100 Eastern. Those meetings are held here in our Discord. Join us!
+Finally, we have weekly community meetings every Wednesday at 0800 Pacific / 1100 Eastern. Those meetings are held in our Discord. Join us!
